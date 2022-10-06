@@ -8,7 +8,7 @@ const About = () => {
   return (
     <>
       <Header />
-      <Back title="About Us" />
+      <Back title="About Yazid Development" />
       <AboutCard />
       <Footer />
     </>
